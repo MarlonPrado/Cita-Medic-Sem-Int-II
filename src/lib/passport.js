@@ -65,7 +65,7 @@ passport.use('local.login', new LocalStrategy({
         
         if(validPassword){
             done(null, usuario, req.flash('Welcome')); 
-            alert('howdy')
+           
             console.log('Bien');
         }
         else{

@@ -1,9 +1,9 @@
 module.exports= {
     database: {
-        host: 'localhost',
-        user: 'root',
-        password: '1234',
-        database: 'database_odontologia'
+        host: 'mysql-marlonprado.alwaysdata.net',
+        user: '271266_root',
+        password: 'Marlonprado1193551182.',
+        database: 'marlonprado_database_odontologia'
 
     }
 }
